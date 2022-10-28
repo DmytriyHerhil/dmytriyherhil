@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimacoc69&label=Profile%20views&color=0e75b6&style=flat" alt="dimacoc69" /> </p>
 
-- 🔭 I’m currently working on **JavaScipt projects**
+- 🔭 I’m currently working on **JavaScript projects**
 
 - 🌱 I’m currently learning **HTML,CSS,JS,MongoDB,Python**
 
